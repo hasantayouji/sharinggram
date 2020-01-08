@@ -2,7 +2,7 @@
 
 Flutter Instagram Clone
 
-Download apk: https://drive.google.com/open?id=1agl4MV5AeVr3YRVM2WlD0mzLnIwr4KMJ
+Download apk: https://drive.google.com/open?id=11_6WVkcWIhf5KadxCHkI3KYHIUXkjGov
 
 Features:
 - Backend using firestore
